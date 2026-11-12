@@ -1,0 +1,8 @@
+export const DEFAULT_EXERCISES = [
+  { id: "ex1", nama: "Goblet Squat", kategori: "Lower Body", alat: "1 Dumbbell", target: "Kuadrisep, Glutes & Landing Stabilitas", instruksi: "Tempo 3-1-1. Turunkan pinggul perlahan, dorong tumit saat berdiri.", setTarget: 3 },
+  { id: "ex2", nama: "Dumbbell Romanian Deadlift", kategori: "Lower Body", alat: "2 Dumbbell", target: "Hamstring & Glutes (Cegah Cedera Sprint)", instruksi: "Punggung lurus, dorong pinggul ke belakang hingga beban di bawah lutut.", setTarget: 3 },
+  { id: "ex3", nama: "Dumbbell Glute Bridge", kategori: "Lower Body", alat: "1 Dumbbell", target: "Gluteus & Core (Stabilitas Panggul)", instruksi: "Tahan 1 detik di puncak dorongan, kencangkan otot glutes.", setTarget: 3 },
+  { id: "ex4", nama: "Dumbbell Floor Press", kategori: "Upper Body", alat: "2 Dumbbell", target: "Dada, Triceps & Chest Pass Power", instruksi: "Aman untuk bahu. Turunkan sikut hingga menyentuh lantai lembut.", setTarget: 3 },
+  { id: "ex5", nama: "Barbell Bent-Over Row", kategori: "Upper Body", alat: "1 Barbel Ringan", target: "Punggung Tengah & Rebound Power", instruksi: "Bungkuk 45 derajat, tarik barbel ke arah perut bawah.", setTarget: 3 },
+  { id: "ex6", nama: "Dumbbell Shoulder Press", kategori: "Upper Body", alat: "2 Dumbbell", target: "Bahu & Shooting Stamina Jump Shot", instruksi: "Duduk/berdiri tegak, dorong beban lurus ke atas kepala.", setTarget: 3 },
+];
